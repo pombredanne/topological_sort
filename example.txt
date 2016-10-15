@@ -1,0 +1,4 @@
+get_words		read_pairs
+make_table		topological_sort
+read_pairs		tsort
+topological_sort	tsort
